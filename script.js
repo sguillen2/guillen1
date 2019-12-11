@@ -6,14 +6,14 @@ j = document.getElementById ("Drizzy") ;
 d = document.getElementById ("Da") ;
 c = document.getElementById ("Ohgeesy") ;
 n = document.getElementById ("Wayne") ;
-var audio1= new Audio('sounds/sherm.mp3');
-var audio2= new Audio('sounds/Rude03.mp3');
-var audio3= new Audio('sounds/fenix.mp3');
-var audio4= new Audio('sounds/bluefacesc.mp3');
-var audio5= new Audio('sounds/drakeaudio.mp3');
-var audio6= new Audio('sounds/dababya.mp3');
-var audio7= new Audio('sounds/ohgeesy.mp3');
-var audio8= new Audio('sounds/abortion.mp3');
+var audio1= new Audio('Sounds/sherm.mp3');
+var audio2= new Audio('Sounds/Rude03.mp3');
+var audio3= new Audio('Sounds/fenix.mp3');
+var audio4= new Audio('Sounds/bluefacesc.mp3');
+var audio5= new Audio('Sounds/drakeaudio.mp3');
+var audio6= new Audio('Sounds/dababya.mp3');
+var audio7= new Audio('Sounds/ohgeesy.mp3');
+var audio8= new Audio('Sounds/abortion.mp3');
 
 
 function changeImg() {
