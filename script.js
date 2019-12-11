@@ -17,7 +17,7 @@ var audio8= new Audio('Sounds/abortion.mp3');
 
 
 function changeImg() {
-	q.src="Images/mikeshermlyrics.PNG";
+	q.src="Images/mikeshermlyrics.jpg";
 	audio1.play();
 	audio2.pause();
 	audio2.currentTime = 0
@@ -35,7 +35,7 @@ function changeImg() {
 	audio8.currentTime = 0
 }
 function changeGreedo() {
-	t.src="Images/03lyric.PNG";
+	t.src="Images/03lyric.jpg";
 	audio1.pause();
 	audio1.currentTime = 0
 	audio2.play();
@@ -53,7 +53,7 @@ function changeGreedo() {
 	audio8.currentTime = 0
 }
 function changeFenix() {
-	w.src="Images/FFlyric.PNG";
+	w.src="Images/FFlyric.jpg";
 	audio1.pause();
 	audio1.currentTime = 0
 	audio2.pause();
@@ -71,7 +71,7 @@ function changeFenix() {
 	audio8.currentTime = 0
 }
 function changeBface() {
-	k.src="Images/Bface.PNG";
+	k.src="Images/Bface.jpg";
 	audio4.pause();
 	audio1.currentTime = 0
 	audio2.pause();
@@ -89,7 +89,7 @@ function changeBface() {
 	audio8.currentTime = 0
 }
 function changeDrake() {
-	j.src="Images/Drake.PNG";
+	j.src="Images/Drake.jpg";
 	audio1.pause();
 	audio1.currentTime = 0
 	audio2.pause();
@@ -107,7 +107,7 @@ function changeDrake() {
 	audio5.play();
 }
 function changeBaby() {
-	d.src="Images/Dababy.PNG";
+	d.src="Images/Dababy.jpg";
 	audio1.pause();
 	audio1.currentTime = 0
 	audio2.pause();
@@ -126,7 +126,7 @@ function changeBaby() {
 	audio6.play();
 }
 function changeOhgeesy() {
-	c.src="Images/ohgeesylyric.PNG";
+	c.src="Images/ohgeesylyric.jpg";
 	audio1.pause();
 	audio6.pause();
 	audio1.currentTime = 0
@@ -145,7 +145,7 @@ function changeOhgeesy() {
 	audio8.currentTime = 0
 }
 function changeWayne() {
-	n.src="Images/waynelyric.PNG";
+	n.src="Images/waynelyric.jpg";
 	audio6.pause();
 	audio1.currentTime = 0
 	audio2.pause();
