@@ -17,7 +17,7 @@ var audio8= new Audio('Sounds/abortion.mp3');
 
 
 function changeImg() {
-	q.src="Images/mikeshermlyrics.jpg";
+	q.src="Images/mikeshermlyrics.JPG";
 	audio1.play();
 	audio2.pause();
 	audio2.currentTime = 0
@@ -35,7 +35,7 @@ function changeImg() {
 	audio8.currentTime = 0
 }
 function changeGreedo() {
-	t.src="Images/03lyric.jpg";
+	t.src="Images/03lyric.JPG";
 	audio1.pause();
 	audio1.currentTime = 0
 	audio2.play();
@@ -53,7 +53,7 @@ function changeGreedo() {
 	audio8.currentTime = 0
 }
 function changeFenix() {
-	w.src="Images/FFlyric.jpg";
+	w.src="Images/FFlyric.JPG";
 	audio1.pause();
 	audio1.currentTime = 0
 	audio2.pause();
@@ -71,7 +71,7 @@ function changeFenix() {
 	audio8.currentTime = 0
 }
 function changeBface() {
-	k.src="Images/Bface.jpg";
+	k.src="Images/Bface.JPG";
 	audio4.pause();
 	audio1.currentTime = 0
 	audio2.pause();
@@ -89,7 +89,7 @@ function changeBface() {
 	audio8.currentTime = 0
 }
 function changeDrake() {
-	j.src="Images/Drake.jpg";
+	j.src="Images/Drake.JPG";
 	audio1.pause();
 	audio1.currentTime = 0
 	audio2.pause();
@@ -107,7 +107,7 @@ function changeDrake() {
 	audio5.play();
 }
 function changeBaby() {
-	d.src="Images/Dababy.jpg";
+	d.src="Images/Dababy.JPG";
 	audio1.pause();
 	audio1.currentTime = 0
 	audio2.pause();
@@ -126,7 +126,7 @@ function changeBaby() {
 	audio6.play();
 }
 function changeOhgeesy() {
-	c.src="Images/ohgeesylyric.jpg";
+	c.src="Images/ohgeesylyric.JPG";
 	audio1.pause();
 	audio6.pause();
 	audio1.currentTime = 0
@@ -145,7 +145,7 @@ function changeOhgeesy() {
 	audio8.currentTime = 0
 }
 function changeWayne() {
-	n.src="Images/waynelyric.jpg";
+	n.src="Images/waynelyric.JPG";
 	audio6.pause();
 	audio1.currentTime = 0
 	audio2.pause();
@@ -165,43 +165,43 @@ function changeWayne() {
 }
 function resetImages() {
 	//MIKE
-	q.src="Images/mike sherm.jpg";
+	q.src="Images/mike sherm.JPG";
 	audio1.pause();
 	audio1.currentTime = 0;
 	
 	//03-GREEDO
-	t.src="Images/03-Greedo.jpg";
+	t.src="Images/03-Greedo.JPG";
 	audio2.pause();
 	audio2.currentTime = 0;
 	
 	//FENIXFLEXIN
-	w.src="Images/unnamed.jpg";
+	w.src="Images/unnamed.JPG";
 	audio3.pause();
 	audio3.currentTime = 0;
 	
 	//Blueface
-    k.src="Images/Blueface.jpg"
+    k.src="Images/Blueface.JPG"
 	audio4.pause();
 	audio4.currentTime = 0;
 	
 	//drake
-	j.src="Images/Drake.jpg";
+	j.src="Images/Drake.JPG";
 	audio5.pause();
 	audio5.currentTime = 0;
 	
 	//dababy
-	d.src="Images/Dababy.jpg";
+	d.src="Images/Dababy.JPG";
 	audio6.pause();
 	audio6.currentTime = 0;
 	
 	//ohgeesy
-	c.src="Images/ohgeesy.jpg";
+	c.src="Images/ohgeesy.JPG";
 	audio7.pause();
 	audio7.currentTime = 0;
 	
 	
 	// lilwayne
-	n.src="Images/lilwayne.jpg";
+	n.src="Images/lilwayne.JPG";
 	audio8.pause();
 	audio8.currentTime = 0;
 	
